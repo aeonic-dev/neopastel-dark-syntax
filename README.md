@@ -1,5 +1,7 @@
 # neopastel-dark-syntax theme
 
-A short description of your theme.
+A dark pastel theme reminiscent of city nights
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Preview 1](mdres/sc1.png)
+![Preview 2](mdres/sc1.png)
+![Preview 3](mdres/sc1.png)
